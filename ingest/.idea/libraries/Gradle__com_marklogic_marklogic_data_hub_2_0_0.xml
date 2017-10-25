@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marklogic:marklogic-data-hub:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/marklogic-data-hub/2.0.0/93606bb0702c453f9531650bcefac946698a35f7/marklogic-data-hub-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/marklogic-data-hub/2.0.0/a0cefc7978247f480a08784a0ed35e19032eb852/marklogic-data-hub-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

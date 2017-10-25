@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marklogic:mlcp-util:0.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/mlcp-util/0.3.0/8d8081f17b62e2da4a54c85fec5a0bf13bf9525a/mlcp-util-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/mlcp-util/0.3.0/d71cde488f7cfb8d498baa3a12a3d2c5942382d5/mlcp-util-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

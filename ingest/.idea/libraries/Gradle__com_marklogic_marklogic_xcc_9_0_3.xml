@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marklogic:marklogic-xcc:9.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/marklogic-xcc/9.0.3/38fe36b3c45aed18c6aeddab1b8ae4e89e908af9/marklogic-xcc-9.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/marklogic-xcc/9.0.3/4fdc719755149133f4697f50824eaedb1f7edc75/marklogic-xcc-9.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "title" : "Article",
+    "version" : "0.0.1"
+  },
+  "definitions" : {
+    "Article" : {
+      "required" : [ ],
+      "rangeIndex" : [ "journal-title" ],
+      "wordLexicon" : [ ],
+      "properties" : {
+        "journal-title" : {
+          "datatype" : "string",
+          "description" : "Journal Title",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "article-title-flat" : {
+          "datatype" : "string",
+          "description" : "Article Title (without markup)",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "doi" : {
+          "datatype" : "string",
+          "description" : "DOI",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        }
+      }
+    }
+  }
+}

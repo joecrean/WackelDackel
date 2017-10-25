@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marklogic:ml-javaclient-util:3.1-alpha3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/ml-javaclient-util/3.1-alpha3/8aa0843d41246c3b87019131f8d70c3439f2607a/ml-javaclient-util-3.1-alpha3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/ml-javaclient-util/3.1-alpha3/4497ded46b2958f2f9998aa6a61ae054b4a4c1e0/ml-javaclient-util-3.1-alpha3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

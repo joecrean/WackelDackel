@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marklogic:ml-app-deployer:3.1-alpha3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/ml-app-deployer/3.1-alpha3/ed55074565108dca90738eacb9694cefa32ad4c0/ml-app-deployer-3.1-alpha3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/ml-app-deployer/3.1-alpha3/103c2c5801b0fe945990d0538e702c9a6b298ffd/ml-app-deployer-3.1-alpha3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
